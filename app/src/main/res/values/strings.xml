@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DiceGame</string>
+    <string name="computer_title">Computer:</string>
+    <string name="user_title">User(You):</string>
+    <string name="higher_btn">Higher</string>
+    <string name="lower_btn">Lower</string>
+</resources>
